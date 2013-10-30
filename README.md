@@ -1,4 +1,4 @@
 Solutions
 =========
 
-My solutions to topcoder, codechef, hackerrank problems
+My solutions for topcoder, codechef, hackerrank problems
